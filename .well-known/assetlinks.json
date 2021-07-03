@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "whocalledme.lwx.dev",
+            "sha256_cert_fingerprints": [
+                "A9:3A:11:A5:2D:2A:12:5F:56:5A:2E:39:2B:95:2C:E7:70:3D:01:DE:3B:3C:22:F2:2A:6C:22:15:7A:F4:60:B5"
+            ]
+        }
+    }
+]
